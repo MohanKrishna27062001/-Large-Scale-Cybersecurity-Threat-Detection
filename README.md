@@ -1,4 +1,4 @@
-# 🛡️ Advanced Network Intrusion Detection System
+# 🛡️  Large-Scale Cybersecurity Threat Detection
 
 A state-of-the-art machine learning system for detecting network intrusions using advanced ensemble methods and network feature engineering. Achieves **95%+ accuracy** on the UNSW-NB15 dataset with DQN-inspired deep learning.
 
